@@ -1,3 +1,10 @@
+# Table of Contents
+1. [What is QA?](#WhatisQA)
+2. What does QA Testers do?
+3. Why choose QA
+
+
+
 # What is QA
 1. **QA** stands for Quality Assurance. Goal of QA is to verify that specific requirements are met. So a product has to have a requirements, what it should do, how it should do, how often it should do something, how much load it should take and etc. QA makes sure that the product is working as its expected to do and as much as possible, it is bug-free.
 2. **QA duties** may vary depending on the product because there are different industries may it be in medical, military, government or real estate companies and many more. And it is also depending on what product it is, maybe a webpage, maybe that is an API, maybe that is a system, maybe for a backend program, maybe that is a wearable device and etc. The main goal is always the same, the product must meet the requirements and it is also bug-free and stable.
@@ -19,3 +26,15 @@ QA Testers are definitely needed, it's not like we can just make a product and j
 - Participate in meetings, grooming, and other team activities
 - Serve as a connection layer between developers and product owners
 - Add user perceptive to requirements and suggest improvements
+
+---
+
+# Why choose QA?
+- A lot of different industries to work in
+- Good entry point into IT field
+- Great benefits, completive salaries, comfortable working environment, WFH
+- A lot of growth potential into QA automation, SDET, DevOPS, Project Manager, Management
+
+---
+
+#
