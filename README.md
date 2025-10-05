@@ -1,7 +1,7 @@
 # Table of Contents
 1. [What is QA?](#What-is-QA)
-2. What does QA Testers do?
-3. Why choose QA
+2. [What does QA Testers do?](#What-does-QA-Testers-do)
+3. [Why choose QA](#Why-choose-QA)
 
 
 
