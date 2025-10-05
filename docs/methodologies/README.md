@@ -13,4 +13,29 @@ SDLC originated in 1960th to help develop large scale systems. Back then compute
 
 ---
 
-# 
+# Methodologies
+## Lean 
+- Identify value
+- Map the value stream
+- Create a flow
+- Establish pull
+- Seek perfection
+
+## Waterfall
+- Requirements
+- Design
+- Implementation
+- Verification
+- Maintenance
+
+## Agile
+- 
+
+## Scrum
+- 
+
+## Shift Left
+- 
+
+## Kanban
+- 
